@@ -1,17 +1,16 @@
-# April26_Rutgers-RCSB
-For materials from the April 2026 CodeBMB Webinar for Beginners
+![Logo for the codeBMB presentation through the RCSB and Rutgers IQB](images/codebmb_IQB.png)
 
-# Colab order
+## Before the webinar
 
-001-Introduction to Colab --> Chris
+1. Sign up for a Google account
 
-002-Python syntax --> Paul
 
-003-Working with Pandas and Numpy --> Chris
+## Topic schedule
 
-004-Linear regression --> Wally
 
-<a target="_blank" href="https://colab.research.google.com/github/codeBMB/April26_Rutgers-RCSB/blob/main/PyBMB_Notebook_Template_Gemini.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-    </a>
-    
+
+
+## Videos from the webinar
+
+Will be available a few weeks after the presentation
+
